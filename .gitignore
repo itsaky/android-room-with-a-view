@@ -1,4 +1,5 @@
 *.iml
+.androidide
 .idea
 .gradle
 /local.properties
